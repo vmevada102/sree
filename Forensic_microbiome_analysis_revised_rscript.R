@@ -394,7 +394,7 @@ p1 <- ggplot(
   )
 
 p1
-
+#Repeat for other subsites to generate the plot 
 ############################################################
 # Salivary microbiome composition in male and female participants
 ############################################################
